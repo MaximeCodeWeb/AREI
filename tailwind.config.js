@@ -5,6 +5,7 @@ module.exports = {
       'colorFooter': '#2B2B35',
       'white': '#FFFFFF',
       'greyFooter': '#B5B5C2',
+      'circleShop' : '#DEE3EE',
     },
     extend: {
       fontFamily: {
@@ -17,12 +18,17 @@ module.exports = {
     },
     height: {
       '200': '200px',
+      '800' : '600px',
     },
     inset: {
       'footer': '46.99rem',
     },
     spacing: {
       'footer': '46.99rem',
+    },
+    borderWidth: {
+      DEFAULT: '1px',
+      '0.5': '0.5px',
     }
     },
   },
